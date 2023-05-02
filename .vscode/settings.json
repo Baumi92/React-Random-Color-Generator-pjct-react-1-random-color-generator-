@@ -1,0 +1,13 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "colorpad",
+    "klick",
+    "noopener",
+    "noreferrer",
+    "pjct",
+    "stylelint",
+    "upleveled",
+    "webfonts"
+  ]
+}
