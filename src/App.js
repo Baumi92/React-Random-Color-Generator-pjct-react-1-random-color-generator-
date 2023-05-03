@@ -2,7 +2,10 @@ import './App.css';
 import React, { useState } from 'react';
 
 function ColorGenerator() {
+  // Set the initial color to a random hexadecimal value
+
   const [randomColor, setRandomColor] = useState(
+    // When the button is clicked, set the color to a new random hexadecimal value
     '#' + Math.floor(Math.random() * 16777215).toString(16),
   );
 
